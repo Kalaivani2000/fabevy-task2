@@ -1,0 +1,278 @@
+*{
+	margin:0;
+	padding:10px;
+	text-decoration:none;
+	box-sizing:border-box;
+}
+
+	
+
+ .image{
+	 width:100px;
+	 height:100px;
+	 border-radius:50%;
+	
+ }
+ img{ 
+     border-radius:50%;
+     width:100px;
+	 height:100px;
+	 margin:-10px;
+	 border:solid;
+ }
+ .container {
+	 display:flex;
+	   
+ }
+.head-info{
+	    justify-content:space-between;
+		flex-grow:10;
+}
+ .head-info h2{
+	     border-bottom:1px solid gray;
+ }
+ .nav a{
+	 font-family:Arial,Sans-serif;
+	 font-size:20px;
+	 color:#696969;
+ }
+ .nav a:hover{
+	    background-color:#C0C0C0;
+ }
+	   
+
+ 
+ .nav .nav1{
+	 color:black;
+	 
+ }
+ 
+ .skill {
+	  display:flex; 
+ }
+ .skill2{
+	 display:flex;
+ }
+		
+	   
+ .text2{
+	 padding:left;
+	 font-size:20px;
+ }
+ .text3 {
+	 text-align:center;
+	 background-color:black;
+	 color:white;
+	 padding:50px 80px;
+	 
+ }
+ .text3 p{
+	     font-size:25px;
+         color:#3e4450;
+ }
+ .text3 h4{
+	     font-size:20px;
+		 color:Gainsboro;
+		 
+ }
+ .text3 h2{ 
+        font-size:50px;
+		
+ }
+.text4 p{
+         word-spacing:100px;
+		 font-size:20px;
+		 color:#3e4450;
+		 border-bottom:1px solid gray;
+		 padding:40px 20px;
+}
+
+.figure2{
+	    border:none;
+	    border-radius:none;
+	    width:66px;
+	    height:68px;
+}
+
+.text6 p{
+	     border-bottom:2px solid gray;
+		 border-left:2px solid gray;
+		 border-top:2px solid gray;
+		 border-right:2px solid gray;
+}
+.figure{
+	     border-bottom:1px solid gray;
+}		 
+.figure1{
+		   border:none;
+		   border-radius:none;
+		   width:66px;
+		   height:68px;	  
+}
+
+.figure3{
+           border:none;
+		   border-radius:none;
+		   width:66px;
+		   height:68px;
+}
+.team1{
+	    border-left:2px solid gray;
+		width:907px;
+		margin:17px;
+		padding:0px;
+}
+.team{
+	 display:flex;
+	 line-height:60%;
+}
+
+.percent1 h1{
+	     width:93px;
+		 height:100px;
+		 background:#DCDCDC;
+		 padding:45px 30px;
+		 margin:20px 30px;
+		 align-content:center;
+}
+.team2{
+	    border-left:2px solid gray;
+		width:907px;
+		margin:17px;
+		padding:0px;
+}
+.team-a{
+	    display:flex;
+	    line-height:60%;
+}
+.percent2 h1{
+	     width:93px;
+		 height:100px;
+		 background:#DCDCDC;
+		 padding:45px 30px;
+		 margin:20px 30px;
+		 align-content:center;
+}
+.team3{
+	    border-left:2px solid gray;
+		width:907px;
+		padding:0px;
+		margin:18px;
+		
+}
+.team-b{
+	    display:flex;
+	    line-height:60%;
+}
+.percent3 h1{
+	     width:93px;
+		 height:100px;
+		 background:#DCDCDC;
+		 padding:45px 30px;
+		 margin:20px 30px;
+		 align-content:center;
+		 
+}
+.project1{
+	    border-left:2px solid gray;
+		width:907px;
+		padding:2px;
+		margin:20px;
+		line-height:60%;
+		color:#808080;
+}
+.project1 h2{
+	     color:black;
+}
+.project2{
+        border-left:2px solid gray;
+		width:907px;
+		padding:2px;
+		margin:20px;
+		line-height:60%;
+		color:#808080;
+}
+.project2 h2{
+	     color:black;
+}
+.text7 {
+	  justify-content:space-between;
+}
+.text7 h2{
+	    color:#696969;
+}
+
+
+.assets1{
+           border:none;
+		   border-radius:none;
+		   width:50px;
+		   height:50px;
+}	
+.assets2{
+           border:none;
+		   border-radius:none;
+		   width:50px;
+		   height:50px;
+		   margin-left:10px;
+}
+.assets3{
+           border:none;
+		   border-radius:none;
+		   width:50px;
+		   height:50px;
+		   margin-left:10px;
+}
+.assets4{
+           border:none;
+		   border-radius:none;
+		   width:50px;
+		   height:50px;
+		   margin-left:10px;
+}
+.assets5{
+           border:none;
+		   border-radius:none;
+		   width:50px;
+		   height:50px;
+		   margin-left:10px;
+}
+.assets6{
+           border:none;
+		   border-radius:none;
+		   width:50px;
+		   height:50px;
+		   margin-left:10px;
+}
+.assets7{
+           border:none;
+		   border-radius:none;
+		   width:50px;
+		   height:50px;
+		   margin-left:10px;
+}
+.sample h3{
+          border-right: 2px solid gray;
+		  margin-right:1114px;
+		  color:#708090;
+}
+.sample h4{
+         padding-left:162px;
+		 margin-top:-38px;
+		 color:#708090;
+}
+		 
+		 
+         	  
+	   
+
+
+
+  
+ 
+ 
+	
+ 
+		 
+ 
+      
